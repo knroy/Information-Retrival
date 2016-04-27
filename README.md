@@ -1,7 +1,7 @@
 # Information-Retrival
 Sorting All documents for search Query, based on TF-IDF score and cosine Similarity
 
-#Demo Input:
+Demo Input:
 
 
 3
@@ -15,7 +15,7 @@ the sky is blue
 Now Enter Queries: (enter "#" to stop)
 blue sky
 
-#Demo Output:
+Demo Output:
 
 DOC table with DF and IDF:
 --------------------------
